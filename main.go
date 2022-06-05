@@ -50,7 +50,7 @@ func Merge(files []BiliDownload) {
 		if err != nil {
 			fmt.Println("Merge " + download.video + " Error：" + err.Error())
 			fmt.Println(string(stdout))
-			return
+			println("Command as:" + cmd.String())
 		}
 	}
 }
