@@ -1,4 +1,4 @@
-<h2 align="center">m4s File Merge</h2>
+<h2 align="center">✨ m4s File Merge</h2>
 
 <div align="center"><a href="README-zh.md">--> Readme.md in Chinese <--</a></div>
 
